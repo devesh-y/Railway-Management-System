@@ -1,0 +1,2 @@
+1000	del-ajm	delhi	ajmer	400	47	15	301001	del-jai	delhi	jaipur	300	38	4	151002	jai-guru	jaipur	gurugram	400	33	13	501003	rew-guru	rewari	gurugram	200	72	7	201004	rew-far	rewari	faridabad	300	35	2	500
+1005	bho-del	bhopal	delhi	500	99	14	50

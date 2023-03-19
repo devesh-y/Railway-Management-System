@@ -1,0 +1,5 @@
+ajay	m	19	delhi	jaipur	7896541354	100	300	1001	del-jai	22/11/21	4	15
+varun	m	12	delhi	ajmer	7845122356	101	200	1000	del-ajm	21/11/21	15	30
+dev	m	24	delhi	ajmer	9856235465	102	400	1000	del-ajm	23/11/21	15	30
+geeta	f	15	rewari	faridabad	7895636556	103	150	1004	rew-far	20/11/21	2	50
+babita	f	21	jaipur	gurugram	5689236588	104	400	1002	jai-guru	25/11/21	13	50------	-	00	delhi	ajmer	----------	105	400	1000	del-ajm	30/11/21	15	300
